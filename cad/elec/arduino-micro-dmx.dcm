@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADuM1286
+D 3 kV RMS Dual Channel Digital Isolators, Default Low
+$ENDCMP
+#
+$CMP ARDUINO_MICRO
+D Arduino Micro board
+$ENDCMP
+#
+$CMP MAX488E
+D ±15kV ESD-Protected, Slew-Rate-Limited, Low-Power, RS-485/RS-422 Transceivers
+$ENDCMP
+#
+$CMP ROE-0505S
+D 1:1 1kV Isolated 5V DC/DC converter
+$ENDCMP
+#
+$CMP SSF-LXH22573GGD
+D 2x LED circuit board indicator 2x5mm
+$ENDCMP
+#
+#End Doc Library

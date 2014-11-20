@@ -1,0 +1,185 @@
+Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = jeu 20 nov 2014 14:35:00 CET
+
+BeginCmp
+TimeStamp = /546CD1B6;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /546CCD24;
+Reference = C2;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /546CD217;
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /546DDE06;
+Reference = CON1;
+ValeurCmp = BARREL_JACK;
+IdModule  = Project Library:RASM-712PX;
+EndCmp
+
+BeginCmp
+TimeStamp = /546DEED0;
+Reference = D1;
+ValeurCmp = DMX_STATUS;
+IdModule  = Project Library:SSF-LXG22573;
+EndCmp
+
+BeginCmp
+TimeStamp = /546DF428;
+Reference = D2;
+ValeurCmp = ERROR01;
+IdModule  = Project Library:SSF-LXG22573;
+EndCmp
+
+BeginCmp
+TimeStamp = /546DF49C;
+Reference = D3;
+ValeurCmp = ERROR23;
+IdModule  = Project Library:SSF-LXG22573;
+EndCmp
+
+BeginCmp
+TimeStamp = /546CC553;
+Reference = P2;
+ValeurCmp = DMX IN;
+IdModule  = Project Library:NC5MBH;
+EndCmp
+
+BeginCmp
+TimeStamp = /546CCA08;
+Reference = P3;
+ValeurCmp = DMX OUT;
+IdModule  = Project Library:NC5FBH;
+EndCmp
+
+BeginCmp
+TimeStamp = /546CF3B0;
+Reference = P4;
+ValeurCmp = I2C OUT;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /546DC4D1;
+Reference = R1;
+ValeurCmp = 0.005;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /546CC8AE;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /546CD6EF;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /546CF828;
+Reference = R4;
+ValeurCmp = 110;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /546CF9C5;
+Reference = R5;
+ValeurCmp = 110;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /546CFA0D;
+Reference = R6;
+ValeurCmp = 110;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /546CFA52;
+Reference = R7;
+ValeurCmp = 110;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /546CFA9C;
+Reference = R8;
+ValeurCmp = 110;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /546CFB14;
+Reference = R9;
+ValeurCmp = 110;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /546CCBB1;
+Reference = SW1;
+ValeurCmp = TERM_SELECTOR;
+IdModule  = Project Library:SSSS810701;
+EndCmp
+
+BeginCmp
+TimeStamp = /546DC92A;
+Reference = TP1;
+ValeurCmp = CURR_OUT2;
+IdModule  = Connect:PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = /546DC7F1;
+Reference = TP2;
+ValeurCmp = CURR_OUT1;
+IdModule  = Connect:PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = /546CBED6;
+Reference = U1;
+ValeurCmp = ROE-0505S;
+IdModule  = Project Library:ROE-0505S;
+EndCmp
+
+BeginCmp
+TimeStamp = /546CBE49;
+Reference = U2;
+ValeurCmp = ARDUINO_MICRO;
+IdModule  = Project Library:ARDUINO_MICRO;
+EndCmp
+
+BeginCmp
+TimeStamp = /546CC2BA;
+Reference = U3;
+ValeurCmp = ADuM1286;
+IdModule  = Project Library:SOIC-8-N;
+EndCmp
+
+BeginCmp
+TimeStamp = /546CBF8B;
+Reference = U4;
+ValeurCmp = MAX488E;
+IdModule  = Project Library:SOIC-8-N;
+EndCmp
+
+EndListe

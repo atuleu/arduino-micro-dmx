@@ -840,9 +840,9 @@ Wire Wire Line
 	4650 2000 4650 2400
 Wire Wire Line
 	4650 2400 5400 2400
-Text Label 4050 1900 0    60   ~ 0
-DMX_IN
 Text Label 4050 2000 0    60   ~ 0
+DMX_IN
+Text Label 4050 1900 0    60   ~ 0
 DMX_OUT
 $Comp
 L GND #PWR029
@@ -1022,4 +1022,6 @@ Wire Wire Line
 	9800 2900 10100 2900
 Wire Wire Line
 	9550 1300 9550 1500
+Text Notes 7000 6450 0    60   ~ 0
+This documentation describes Open Hardware and is licensed under the\nCERN OHL v. 1.2.\nYou may redistribute and modify this documentation under the terms of the\nCERN OHL v.1.2. (http://ohwr.org/cernohl). This documentation is distributed\nWITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF\nMERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A\nPARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable\nconditions
 $EndSCHEMATC
